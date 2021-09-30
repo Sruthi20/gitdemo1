@@ -1,1 +1,4 @@
 Html is mark up language
+
+Css is used for styling purpose
+
